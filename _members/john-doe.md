@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Melle Versluis
 image: images/photo.jpg
 role: phd
-group: alum
 links:
-  github: john-doe
+  email: m.i.versluis@uva.nl
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Some text.
