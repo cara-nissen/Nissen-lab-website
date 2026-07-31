@@ -39,8 +39,8 @@
   date: '2026-02-11'
   link: https://doi.org/hcc6zx
   orcid: 0000-0001-5804-3191
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.67382/nczr5212
   title: Antarctica InSync Scientific Theme 1 - Southern Ocean physical and biogeochemical
     cycles in a changing climate
@@ -789,16 +789,6 @@
   publisher: ETH Zurich
   date: '2021-01-01'
   link: https://doi.org/hcc623
-  orcid: 0000-0001-5804-3191
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3929/ETHZ-B-000409193
-  title: 'ROMS-BEC model data: Factors controlling the competition between Phaeocystis
-    and diatoms in the Southern Ocean and implications for carbon export fluxes'
-  authors: []
-  publisher: ETH Zurich
-  date: '2020-01-01'
-  link: https://doi.org/hcc624
   orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
