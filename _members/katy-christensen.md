@@ -2,6 +2,7 @@
 name: Katy Christensen
 image: images/photo.jpg
 role: postdoc
+affiliation: University of Colorado Boulder
 links:
   email: katy.christensen@colorado.edu
   orcid: 0000-0003-1064-2245
