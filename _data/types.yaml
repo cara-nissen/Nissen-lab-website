@@ -16,11 +16,11 @@ phd:
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Bachelor Student
+  description: Bachelor Students
 
 master:
   icon: fa-solid fa-user-graduate
-  description: Master Student
+  description: Master Students
 
 programmer:
   icon: fa-solid fa-code
