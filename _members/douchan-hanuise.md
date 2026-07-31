@@ -1,5 +1,5 @@
 ---
-name: Douchan Hanuise
+name: Douchan Hanuise (as of fall 2026)
 image: images/photo.jpg
 role: postdoc
 affiliation: University of Amsterdam
