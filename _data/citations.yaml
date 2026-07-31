@@ -648,3 +648,17 @@
   orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.22541/essoar.15006783/v1
+  title: 'Diagnosing the influence of Southern Ocean storms on air-sea carbon dioxide
+    flux from synthetic floats: A modeling study'
+  authors:
+  - Katy M. Christensen
+  - Nicole Suzanne Lovenduski
+  - LeAnn Marie Conlon
+  - Mathew E Maltrud
+  - Cara Nissen
+  publisher: Wiley
+  date: '2026-07-30'
+  link: https://doi.org/hcc65j
+  plugin: sources.py
+  file: sources.yaml
