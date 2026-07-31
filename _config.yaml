@@ -8,12 +8,10 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@cara-nissen.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: c.nissen@uva.nl
+  orcid: 0000-0001-5804-3191
+  google-scholar: P0-sAswAAAAJ
   github: cara-nissen
-  twitter: cara-nissen
-  youtube: cara-nissen
 
 ### jekyll settings
 
