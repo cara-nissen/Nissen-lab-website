@@ -1,7 +1,7 @@
 - id: doi:10.3929/ETHZ-B-000409193
   remove: true
 
-- id: doi:10.3929/ETHZ-B-000304530
+- id: doi:https://doi.org/10.3929/ethz-b-000304530
   remove: true
 
 - id: doi:10.3929/ETHZ-B-000471872
