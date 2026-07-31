@@ -13,7 +13,7 @@ An overview of the lab's publications.
 
 ## Highlighted
 
-{% include citation.html lookup="Severe 21st-century ocean acidification in Antarctic Marine Protected Areas" style="rich" image=https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-44438-x/MediaObjects/41467_2023_44438_Fig1_HTML.png?as=webp %}
+{% include citation.html lookup="Severe 21st-century ocean acidification in Antarctic Marine Protected Areas" style="rich" %}
 
 {% include citation.html lookup="LIGHT-bgcArgo-1.0: using synthetic float capabilities in E3SMv2 to assess spatiotemporal variability in ocean physics and biogeochemistry" style="rich" %}
 
