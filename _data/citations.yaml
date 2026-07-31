@@ -1,209 +1,855 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s41558-026-02561-9
+  title: Emergent climate change signals within Antarctic sea ice and associated ecosystems
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Kristen M. Krumhardt
+  - Laura Landrum
+  - "Bilgecan \u015Een"
+  - Alice K. DuVivier
+  - Michael N. Levy
+  - Cara Nissen
+  - Marika M. Holland
+  - "St\xE9phanie Jenouvrier"
+  publisher: Nature Climate Change
+  date: '2026-02-13'
+  link: https://doi.org/hcc6zw
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s41467-026-69011-0
+  title: An Antarctic ecosystem value index to quantify ecological value across trophic
+    levels and over time
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - Alice K. DuVivier
+  - Kristen M. Krumhardt
+  - Laura L. Landrum
+  - Zephyr Sylvester
+  - "Bilgecan \u015Een"
+  - Sara Labrousse
+  - Christian Che-Castaldo
+  - Alice Eparvier
+  - Marika M. Holland
+  - Michelle A. LaRue
+  - Cara Nissen
+  - Michael N. Levy
+  - Stephanie Jenouvrier
+  - Cassandra Brooks
+  publisher: Nature Communications
+  date: '2026-02-11'
+  link: https://doi.org/hcc6zx
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.67382/nczr5212
+  title: Antarctica InSync Scientific Theme 1 - Southern Ocean physical and biogeochemical
+    cycles in a changing climate
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Jean-Baptiste Sall\xE9e"
+  - Sebastiaan Swart
+  - Elisa Carli
+  - Elise Droste
+  - "L\xE9a Olivier"
+  - David Amblas
+  - Pasquale Castagno
+  - Allison Cusick
+  - Bruno Delille
+  - Dolores Deregibus
+  - Marcel du Plessis
+  - Antonino Ferola
+  - Christel Hassler
+  - Tore Hattermann
+  - Alexander Haumann
+  - Laura Herraiz-Borreguero
+  - Daisuke Hirano
+  - "Juan H\xF6fer"
+  - "Ma\u0142gorzata Krzemi\u0144ska"
+  - "Ricardo Le\xF3n"
+  - Pedro J. Llanillo
+  - Charlotte Maistriau
+  - Torge Martin
+  - Nicolas Mayot
+  - Andrew Meijers
+  - Mireia Mestre
+  - Nicolas Metzl
+  - Amelie Meyer
+  - Rob Middag
+  - Kohei Mizobata
+  - Cara Nissen
+  - Estrella Olmedo
+  - P. P. Panda
+  - Keyhong Park
+  - Lavinia Patara
+  - Luciano Pezzi
+  - Channing Prend
+  - Prabhakaran Sabu
+  - Richard Sanders
+  - Steven Siems
+  - Alessandro Silvano
+  - Inga Smith
+  - Craig Stevens
+  - Adrienne Sutton
+  - Lynne Talley
+  - Andrew Thompson
+  - Sarat Chandra Tripathy
+  - Julia Uitz
+  - Roger Urgeles
+  - Kathrin Wuttig
+  publisher: Antarctica InSync Science Plan
+  date: '2026-01-01'
+  link: https://doi.org/hcc6zz
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.5194/os-21-1205-2025
+  title: Simulated density reorganization on the Weddell Sea continental shelf sensitive
+    to atmospheric forcing
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Vanessa Teske
+  - Ralph Timmermann
+  - Cara Nissen
+  - Rolf Zentek
+  - Tido Semmler
+  - "G\xFCnther Heinemann"
+  publisher: Ocean Science
+  date: '2025-07-02'
+  link: https://doi.org/hcc6z2
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1029/2025GB008550
+  title: The Imprint of Southern Ocean Storms on Modeled Surface Chlorophyll, Their
+    Drivers and Satellite Biases
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Cara Nissen
+  - Genevieve L. Clow
+  - Nicole S. Lovenduski
+  - Katherine E. Turner
+  - Magdalena M. Carranza
+  - Kristen M. Krumhardt
+  publisher: Global Biogeochemical Cycles
+  date: '2025-07-01'
+  link: https://doi.org/hcc6z3
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.48361/XBQ9-6G10
+  title: "Acidification in the Southern Ocean \u2013 current state and future challenges"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Cara Nissen
+  - Cassandra Brooks
+  - Alyce Hancock
+  - Judith Hauck
+  - Nicole Lovenduski
+  - Katherina Petrou
+  publisher: "Antarctic\u202FEnvironments Portal"
+  date: '2025-01-01'
+  link: https://doi.org/hcc6z4
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1029/2024GB008403
+  title: "The Role of Ballasting, Seawater Viscosity and Oxygen\u2010Dependent Remineralization\
+    \ for Export and Transfer Efficiencies in the Global Ocean"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Onur Karaku\u015F"
+  - Cara Nissen
+  - "Christoph V\xF6lker"
+  - Wilhelm Hagen
+  - Morten Iversen
+  - Laurent Oziel
+  - "\xD6zg\xFCr G\xFCrses"
+  - Judith Hauck
+  publisher: Global Biogeochemical Cycles
+  date: '2025-05-01'
+  link: https://doi.org/hcc6z5
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1038/s41558-024-02233-6
+  title: "Climate change and terrigenous inputs decrease the efficiency of the future\
+    \ Arctic Ocean\u2019s biological carbon pump"
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Laurent Oziel
+  - "\xD6zg\xFCr G\xFCrses"
+  - "Sinhu\xE9 Torres-Vald\xE9s"
+  - Clara J. M. Hoppe
+  - "Bj\xF6rn Rost"
+  - "Onur Karaku\u015F"
+  - Christopher Danek
+  - Boris P. Koch
+  - Cara Nissen
+  - Nikolay Koldunov
+  - Qiang Wang
+  - "Christoph V\xF6lker"
+  - Morten Iversen
+  - Bennet Juhls
+  - Judith Hauck
+  publisher: Nature Climate Change
+  date: '2025-01-06'
+  link: https://doi.org/g9xcbm
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1111/gcb.70063
+  title: "Twenty\u2010First\u2010Century Environmental Change Decreases Habitat Overlap\
+    \ of Antarctic Toothfish (\n                    <scp>\n                      <i>Dissostichus\
+    \ mawsoni</i>\n                    </scp>\n                    ) and Its Prey"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Cara Nissen
+  - Jilda Alicia Caccavo
+  - "Anne L. Mor\xE9e"
+  publisher: Global Change Biology
+  date: '2025-02-01'
+  link: https://doi.org/hcc6z6
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2024ef004475
+  title: The Nonlinear and Distinct Responses of Ocean Heat Content and Anthropogenic
+    Carbon to Ice Sheet Freshwater Discharge in a Warming Climate
+  authors:
+  - Tessa Gorte
+  - Nicole S. Lovenduski
+  - Cara Nissen
+  - Jan T. M. Lenaerts
+  - Jeffrey B. Weiss
+  publisher: Earth's Future
+  date: '2024-11-01'
+  link: https://doi.org/g94wmz
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2023ef004213
+  title: Ocean Alkalinity Enhancement in Deep Water Formation Regions Under Low and
+    High Emission Pathways
+  authors:
+  - Tanvi Nagwekar
+  - Cara Nissen
+  - Judith Hauck
+  publisher: Earth's Future
+  date: '2024-10-01'
+  link: https://doi.org/hcc6z7
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/conl.13053
+  title: "Building a coordinated framework for research and monitoring in large\u2010\
+    scale international marine protected areas: The Ross Sea region as a model system"
+  authors:
+  - Cassandra Brooks
+  - Sharon Stammerjohn
+  - Grant Ballard
+  - Alice K. DuVivier
+  - Eileen Hofmann
+  - Michelle LaRue
+  - Cara Nissen
+  - Alexander J. Orona
+  - B. Jack Pan
+  - Annie E. Schmidt
+  - Nathan Walker
+  - George M. Watters
+  - John Weller
+  publisher: Conservation Letters
+  date: '2024-09-19'
+  link: https://doi.org/hcc6z8
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/gmd-17-6415-2024
+  title: 'LIGHT-bgcArgo-1.0: using synthetic float capabilities in E3SMv2 to assess
+    spatiotemporal variability in ocean physics and biogeochemistry'
+  authors:
+  - Cara Nissen
+  - Nicole S. Lovenduski
+  - Mathew Maltrud
+  - Alison R. Gray
+  - Yohei Takano
+  - Kristen Falcinelli
+  - "Jade Sauv\xE9"
+  - Katherine Smith
+  publisher: Geoscientific Model Development
+  date: '2024-08-30'
+  link: https://doi.org/hcc6z9
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2023gl107030
+  title: The Impact of Recent Climate Change on the Global Ocean Carbon Sink
+  authors:
+  - Frauke Bunsen
+  - Cara Nissen
+  - Judith Hauck
+  publisher: Geophysical Research Letters
+  date: '2024-02-23'
+  link: https://doi.org/hcc62b
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/os-20-85-2024
+  title: Altered Weddell Sea warm- and dense-water pathways in response to 21st-century
+    climate change
+  authors:
+  - Cara Nissen
+  - Ralph Timmermann
+  - Mathias van Caspel
+  - Claudia Wekerle
+  publisher: Ocean Science
+  date: '2024-01-22'
+  link: https://doi.org/hcc62c
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-44438-x
+  title: Severe 21st-century ocean acidification in Antarctic Marine Protected Areas
+  authors:
+  - Cara Nissen
+  - Nicole S. Lovenduski
+  - Cassandra M. Brooks
+  - Mario Hoppema
+  - Ralph Timmermann
+  - Judith Hauck
+  publisher: Nature Communications
+  date: '2024-01-04'
+  link: https://doi.org/hcc62d
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2023gb007803
+  title: A Synthesis of Global Coastal Ocean Greenhouse Gas Fluxes
+  authors:
+  - L. Resplandy
+  - A. Hogikyan
+  - "J. D. M\xFCller"
+  - R. G. Najjar
+  - H. W. Bange
+  - D. Bianchi
+  - T. Weber
+  - "W.\u2010J. Cai"
+  - S. C. Doney
+  - K. Fennel
+  - M. Gehlen
+  - J. Hauck
+  - F. Lacroix
+  - "P. Landsch\xFCtzer"
+  - "C. Le Qu\xE9r\xE9"
+  - A. Roobaert
+  - J. Schwinger
+  - S. Berthet
+  - L. Bopp
+  - T. T. T. Chau
+  - M. Dai
+  - N. Gruber
+  - T. Ilyina
+  - A. Kock
+  - M. Manizza
+  - Z. Lachkar
+  - G. G. Laruelle
+  - E. Liao
+  - I. D. Lima
+  - C. Nissen
+  - "C. R\xF6denbeck"
+  - "R. S\xE9f\xE9rian"
+  - K. Toyama
+  - H. Tsujino
+  - P. Regnier
+  publisher: Global Biogeochemical Cycles
+  date: '2024-01-01'
+  link: https://doi.org/gtk4g6
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2023gb007848
+  title: "The Southern Ocean Carbon Cycle 1985\u20132018: Mean, Seasonal Cycle, Trends,\
+    \ and Storage"
+  authors:
+  - Judith Hauck
+  - Luke Gregor
+  - Cara Nissen
+  - Lavinia Patara
+  - Mark Hague
+  - Precious Mongwe
+  - Seth Bushinsky
+  - Scott C. Doney
+  - Nicolas Gruber
+  - "Corinne Le Qu\xE9r\xE9"
+  - Manfredi Manizza
+  - Matthew Mazloff
+  - Pedro M. S. Monteiro
+  - Jens Terhaar
+  publisher: Global Biogeochemical Cycles
+  date: '2023-11-01'
+  link: https://doi.org/g94wmx
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2023gl104949
+  title: Antarctic Ice Sheet Freshwater Discharge Drives Substantial Southern Ocean
+    Changes Over the 21st Century
+  authors:
+  - Tessa Gorte
+  - Nicole S. Lovenduski
+  - Cara Nissen
+  - Jan T. M. Lenaerts
+  publisher: Geophysical Research Letters
+  date: '2023-10-26'
+  link: https://doi.org/hcc62f
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-2023-182
+  title: "Reviews and syntheses: Abrupt ocean biogeochemical change under human-made\
+    \ climatic forcing \u2013 warming, acidification, and deoxygenation"
+  authors:
+  - Christoph Heinze
+  - Thorsten Blenckner
+  - Peter Brown
+  - "Friederike Fr\xF6b"
+  - "Anne Mor\xE9e"
+  - Adrian L. New
+  - Cara Nissen
+  - Stefanie Rynders
+  - Isabel Seguro
+  - Yevgeny Aksenov
+  - Yuri Artioli
+  - "Timoth\xE9e Bourgeois"
+  - Friedrich Burger
+  - Jonathan Buzan
+  - B. B. Cael
+  - "Veli \xC7a\u011Flar Yumruktepe"
+  - Melissa Chierici
+  - Christopher Danek
+  - Ulf Dieckmann
+  - Agneta Fransson
+  - "Thomas Fr\xF6licher"
+  - Giovanni Galli
+  - Marion Gehlen
+  - "Aridane G. Gonz\xE1lez"
+  - Melchor Gonzalez-Davila
+  - Nicolas Gruber
+  - "\xD6rjan Gustafsson"
+  - Judith Hauck
+  - Mikko Heino
+  - Stephanie Henson
+  - Jenny Hieronymus
+  - I. Emma Huertas
+  - Fatma Jebri
+  - "Aurich Jeltsch-Th\xF6mmes"
+  - Fortunat Joos
+  - Jaideep Joshi
+  - Stephen Kelly
+  - Nandini Menon
+  - Precious Mongwe
+  - Laurent Oziel
+  - "S\xF3lveig \xD3lafsdottir"
+  - Julien Palmieri
+  - "Fiz F. P\xE9rez"
+  - Rajamohanan Pillai Ranith
+  - Juliano Ramanantsoa
+  - Tilla Roy
+  - Dagmara Rusiecka
+  - J. Magdalena Santana Casiano
+  - "Yeray Santana-Falc\xF3n"
+  - "J\xF6rg Schwinger"
+  - "Roland S\xE9f\xE9rian"
+  - Miriam Seifert
+  - Anna Shchiptsova
+  - Bablu Sinha
+  - Christopher Somes
+  - Reiner Steinfeldt
+  - Dandan Tao
+  - Jerry Tjiputra
+  - Adam Ulfsbo
+  - "Christoph V\xF6lker"
+  - Tsuyoshi Wakamatsu
+  - Ying Ye
+  publisher: Copernicus GmbH
+  date: '2023-10-10'
+  link: https://doi.org/hcc62g
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2023gb007780
+  title: Magnitude, Trends, and Variability of the Global Ocean Carbon Sink From 1985
+    to 2018
+  authors:
+  - Tim DeVries
+  - Kana Yamamoto
+  - Rik Wanninkhof
+  - Nicolas Gruber
+  - Judith Hauck
+  - "Jens Daniel M\xFCller"
+  - Laurent Bopp
+  - Dustin Carroll
+  - Brendan Carter
+  - "Thi\u2010Tuyet\u2010Trang Chau"
+  - Scott C. Doney
+  - Marion Gehlen
+  - Lucas Gloege
+  - Luke Gregor
+  - Stephanie Henson
+  - Ji Hyun Kim
+  - Yosuke Iida
+  - Tatiana Ilyina
+  - "Peter Landsch\xFCtzer"
+  - "Corinne Le Qu\xE9r\xE9"
+  - David Munro
+  - Cara Nissen
+  - Lavinia Patara
+  - "Fiz F. P\xE9rez"
+  - Laure Resplandy
+  - Keith B. Rodgers
+  - "J\xF6rg Schwinger"
+  - "Roland S\xE9f\xE9rian"
+  - Valentina Sicardi
+  - Jens Terhaar
+  - "Joaquin Tri\xF1anes"
+  - Hiroyuki Tsujino
+  - Andrew Watson
+  - Sayaka Yasunaka
+  - Jiye Zeng
+  publisher: Global Biogeochemical Cycles
+  date: '2023-10-01'
+  link: https://doi.org/hcc62h
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/gcb.16799
+  title: "Interaction matters: Bottom\u2010up driver interdependencies alter the projected\
+    \ response of phytoplankton communities to climate change"
+  authors:
+  - Miriam Seifert
+  - Cara Nissen
+  - "Bj\xF6rn Rost"
+  - Meike Vogt
+  - "Christoph V\xF6lker"
+  - Judith Hauck
+  publisher: Global Change Biology
+  date: '2023-06-02'
+  link: https://doi.org/gv9km9
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsta.2022.0063
+  title: "Sparse observations induce large biases in estimates of the global ocean\
+    \ CO\n            <sub>2</sub>\n            sink: an ocean model subsampling experiment"
+  authors:
+  - Judith Hauck
+  - Cara Nissen
+  - "Peter Landsch\xFCtzer"
+  - "Christian R\xF6denbeck"
+  - Seth Bushinsky
+  - Are Olsen
+  publisher: 'Philosophical Transactions of the Royal Society A: Mathematical, Physical
+    and Engineering Sciences'
+  date: '2023-05-08'
+  link: https://doi.org/g9mncz
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1175/jcli-d-22-0926.1
+  title: "A Regime Shift on Weddell Sea Continental Shelves with Local and Remote\
+    \ Physical and Biogeochemical Implications is Avoidable in a 2\xB0C Scenario"
+  authors:
+  - Cara Nissen
+  - Ralph Timmermann
+  - Mario Hoppema
+  - Judith Hauck
+  publisher: Journal of Climate
+  date: '2023-10-01'
+  link: https://doi.org/hcc62j
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S126_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP126 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62k
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S245_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP245 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62m
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S370_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP370 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62n
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S585_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP585 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62p
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_HIST_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA historical variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62q
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_B_1921_CA_CC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simB 1980_2100 constantAtmCO2 constantClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62r
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_C_S245_VA_CC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simC SSP245 variableAtmCO2 constantClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62s
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_C_S585_VA_CC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simC SSP585 variableAtmCO2 constantClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62t
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_C_HIST_VA_CC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simC historical variableAtmCO2 constantClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62v
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_D_S585_CA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simD SSP585 constantAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62w
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_D_HIST_CA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simD historical constantAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62x
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-30671-3
+  title: Abruptly attenuated carbon sequestration with Weddell Sea dense waters by
+    2100
+  authors:
+  - Cara Nissen
+  - Ralph Timmermann
+  - Mario Hoppema
+  - "\xD6zg\xFCr G\xFCrses"
+  - Judith Hauck
+  publisher: Nature Communications
+  date: '2022-06-14'
+  link: https://doi.org/hcc62z
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1525/elementa.2021.00104
+  title: Cascading effects augment the direct impact of CO2 on phytoplankton growth
+    in a biogeochemical model
+  authors:
+  - Miriam Seifert
+  - Cara Nissen
+  - "Bj\xF6rn Rost"
+  - Judith Hauck
+  publisher: 'Elementa: Science of the Anthropocene'
+  date: '2022-01-01'
+  link: https://doi.org/hcc622
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2021gb006991
+  title: Southern Ocean Phytoplankton Community Structure as a Gatekeeper for Global
+    Nutrient Biogeochemistry
+  authors:
+  - Cara Nissen
+  - Nicolas Gruber
+  - "Matthias M\xFCnnich"
+  - Meike Vogt
+  publisher: Global Biogeochemical Cycles
+  date: '2021-08-01'
+  link: https://doi.org/gk8n42
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-18-251-2021
+  title: "Factors controlling the competition between\n                    <i>Phaeocystis</i>\n\
+    \                    and diatoms in the Southern Ocean and implications for carbon\
+    \ export fluxes"
+  authors:
+  - Cara Nissen
+  - Meike Vogt
+  publisher: Biogeosciences
+  date: '2021-01-14'
+  link: https://doi.org/gn59jv
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3929/ETHZ-B-000471872
+  title: 'ROMS-BEC model data: Southern Ocean phytoplankton community structure as
+    a gatekeeper for global nutrient biogeochemistry'
+  authors: []
+  publisher: ETH Zurich
+  date: '2021-01-01'
+  link: https://doi.org/hcc623
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3929/ETHZ-B-000409193
+  title: 'ROMS-BEC model data: Factors controlling the competition between Phaeocystis
+    and diatoms in the Southern Ocean and implications for carbon export fluxes'
+  authors: []
+  publisher: ETH Zurich
+  date: '2020-01-01'
+  link: https://doi.org/hcc624
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1029/2018ms001483
+  title: 'Coccolithophore Growth and Calcification in an Acidified Ocean: Insights
+    From Community Earth System Model Simulations'
+  authors:
+  - K. M. Krumhardt
+  - N. S. Lovenduski
+  - M. C. Long
+  - M. Levy
+  - K. Lindsay
+  - J. K. Moore
+  - C. Nissen
+  publisher: Journal of Advances in Modeling Earth Systems
+  date: '2019-05-01'
+  link: https://doi.org/hcc625
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3929/ETHZ-B-000351758
+  title: 'Southern Ocean phytoplankton biogeography: Controlling factors and implications
+    for biogeochemistry'
+  authors: []
+  publisher: ETH Zurich
+  date: '2019-01-01'
+  link: https://doi.org/hcc626
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:https://doi.org/10.3929/ethz-b-000304530
+  title: Research Collection | ETH Library
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/hcc627
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/bg-15-6997-2018
+  title: Factors controlling coccolithophore biogeography in the Southern Ocean
+  authors:
+  - Cara Nissen
+  - Meike Vogt
+  - "Matthias M\xFCnnich"
+  - Nicolas Gruber
+  - F. Alexander Haumann
+  publisher: Biogeosciences
+  date: '2018-11-22'
+  link: https://doi.org/gfqbjp
+  orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +865,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +881,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
