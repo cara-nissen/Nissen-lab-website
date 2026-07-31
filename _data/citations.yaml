@@ -561,6 +561,96 @@
   orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S126_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP126 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62k
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S245_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP245 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62m
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S370_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP370 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62n
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_S585_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA SSP585 variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62p
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_A_HIST_VA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simA historical variableAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62q
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_B_1921_CA_CC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simB 1980_2100 constantAtmCO2 constantClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62r
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.26050/WDCC/FESOM14-RECOM2_C_S245_VA_CC
   title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
     in the coupled physical-biogeochemical system simC SSP245 variableAtmCO2 constantClimate
@@ -603,6 +693,36 @@
   publisher: World Data Center for Climate (WDCC) at DKRZ
   date: '2023-01-01'
   link: https://doi.org/hcc62v
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_D_S585_CA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simD SSP585 constantAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62w
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26050/WDCC/FESOM14-RECOM2_D_HIST_CA_VC
+  title: HighRes_highLat_SO FESOM1.4-REcoM2 model simulations to project future change
+    in the coupled physical-biogeochemical system simD historical constantAtmCO2 variableClimate
+  authors:
+  - Cara Nissen
+  - Judith Hauck
+  - Mario Hoppema
+  - Ralph Timmermann
+  - "\xD6zg\xFCr G\xFCrses"
+  publisher: World Data Center for Climate (WDCC) at DKRZ
+  date: '2023-01-01'
+  link: https://doi.org/hcc62x
   orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
