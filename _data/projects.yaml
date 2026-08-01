@@ -54,3 +54,12 @@
   repo: greenelab/lab-website-template
   tags:
     - Global
+
+- title: C-CONNECT
+  subtitle: Plumbing the biological pump - linking missing carbon flows between pelagic and benthic ecosystems in a changing Arctic Ocean
+  group: funded
+  image: images/photo.jpg
+  link: https://github.com/
+  repo: greenelab/lab-website-template
+  tags:
+    - Arctic
