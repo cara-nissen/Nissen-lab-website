@@ -1,9 +1,8 @@
 - title: Ocean Modeling
-  subtitle: Ecosystems and Biogeochemical Cycles
+  subtitle: Modeling ecosystems and biogeochemical cycles
   group: general
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
@@ -11,7 +10,7 @@
     - Global
 
 - title: Observing System Design
-  subtitle: Synthetic observations from models
+  subtitle: Using synthetic observations from ocean models
   group: general
   image: images/photo.jpg
   link: https://github.com/
@@ -23,7 +22,7 @@
     - Global
 
 - title: Antarctic Marine Protected Areas (MPAs)
-  group: general
+  group: Using ocean models to inform ecosystem management
   image: images/photo.jpg
   link: https://github.com/
   description: xx
