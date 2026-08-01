@@ -18,10 +18,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## General research themes
 
-{% include list.html data="research" component="card" %}
-
 {% include section.html %}
+
+{% include list.html data="research" component="card" filter="group == 'general'" style="small" %}
 
 ## Funded projects
 
-{% include list.html component="card" data="projects" filter="group == 'funded'" style="small" %}
+{% include list.html data="research" component="card" filter="group == 'funded'" style="small" %}
