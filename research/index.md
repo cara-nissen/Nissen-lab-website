@@ -18,7 +18,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## General research themes
 
-{% include list.html component="card" data="projects" filter="group == 'general'" %}
+{% include list.html component="card" data="projects" filter="group == 'general'" style="small" %}
 
 {% include section.html %}
 
