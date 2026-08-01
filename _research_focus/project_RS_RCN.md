@@ -1,5 +1,5 @@
 ---
-title: Ross Sea RCN
+title: Ross Sea RCN (2025-2029)
 description: An International Network of Science and Management to Improve Efficacy of Remote Large-Scale Marine Protected Areas
 image: images/MPA_mask_single_MPA_RossSea_different_colors_masked_cavities_v4_homepage.png
 group: funded
