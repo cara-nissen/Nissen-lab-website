@@ -1,5 +1,5 @@
-- title: Ecosystem and Biogeochemical Modeling
-  subtitle: a subtitle
+- title: Ocean Modeling
+  subtitle: Ecosystems and Biogeochemical Cycles
   group: featured
   image: images/photo.jpg
   link: https://github.com/
@@ -10,7 +10,19 @@
     - Arctic
     - Global
 
-- title: Ecosystem and Biogeochemical Modeling
+- title: Observing System Design
+  subtitle: Synthetic observations from models
+  group: general
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Extracting synthetic observations from models to inform sampling strategies
+  repo: greenelab/lab-website-template
+  tags:
+    - Southern Ocean
+    - Arctic
+    - Global
+
+- title: Antarctic Marine Protected Areas (MPAs)
   subtitle: xx
   group: general
   image: images/photo.jpg
@@ -19,6 +31,4 @@
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
-    - Arctic
-    - Global
 
