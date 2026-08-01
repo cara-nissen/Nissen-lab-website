@@ -11,12 +11,12 @@ Some text.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The group uses a range of ocean models to unravel how marine ecosystem dynamics affect biogeochemical cycling in present and future climates and to assess how suitable current observing strategies are to detect change in biogeochemical fluxes. By enhancing the representation of biological processes in these models, the group aims to support marine ecosystem management. 
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research directions"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,32 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our groups consists of international researchers from varying backgrounds.
 
 {%
   include button.html
@@ -77,5 +52,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  text=text
+%}
+
+
+{% capture text %}
+
+If you are interested in joining the group, openings will be posted on this homepage. 
+
+{%
+  include button.html
+  link="openings"
+  text="Check openings"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Openings"
   text=text
 %}
