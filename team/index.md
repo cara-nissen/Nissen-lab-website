@@ -7,10 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Meet the team!
-
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
