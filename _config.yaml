@@ -33,6 +33,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_research
+  - scope:
+      type: "research"
+    values:
+      layout: research
 
 collections:
   # generate page for each member
