@@ -18,10 +18,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## General themes
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'general'" %}
 
 {% include section.html %}
 
 ## Funded projects
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'funded'" style="small" %}
