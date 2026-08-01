@@ -1,6 +1,7 @@
 ---
 title: Ross Sea RCN
 description: An International Network of Science and Management to Improve Efficacy of Remote Large-Scale Marine Protected Areas
+image: images/MPA_mask_single_MPA_RossSea_different_colors_masked_cavities_v4_homepage.png
 group: funded
 link: "https://cara-nissen.github.io/Nissen-lab-website/research_focus/project_RS_RCN.html"
 tags:
