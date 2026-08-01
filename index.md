@@ -11,7 +11,7 @@ Some text.
 
 {% capture text %}
 
-The group uses a range of ocean models to unravel how marine ecosystem dynamics affect biogeochemical cycling in present and future climates. By improving how biological processes are represented and by developing synthetic observing systems within these models, the group aims to better inform marine ecosystem management and guide ocean observing strategies. 
+The group uses a range of ocean models to unravel how marine ecosystem dynamics affect the cycling of carbon and nutrients in present and future climates. By improving how biological processes are represented and by developing synthetic observing systems within these models, the group aims to better inform marine ecosystem management and guide ocean observing strategies. 
 
 {%
   include button.html
