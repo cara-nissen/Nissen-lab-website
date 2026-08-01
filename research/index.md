@@ -20,7 +20,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-{% include list.html data="research" component="card" filter="group == 'general' & title == 'Marine Ecosystem Dynamics'" style="small" %}
+{% include list.html data="research" component="card" filter="title == 'Marine Ecosystem Dynamics'" style="small" %}
 
 ## Funded projects
 
