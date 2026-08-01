@@ -11,7 +11,7 @@ nav:
 
 {% include search-info.html %}
 
-## General research themes
+## Research themes
 
 {% include list.html data="research_focus" component="card" filter="title == 'Marine Ecosystem Dynamics'" style="small" %}
 {% include list.html data="research_focus" component="card" filter="title == 'Observing System Design'" style="small" %}
