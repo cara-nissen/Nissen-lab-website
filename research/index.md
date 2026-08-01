@@ -13,11 +13,7 @@ An overview of the lab's general research directions and funded projects.
 
 {% include search-info.html %}
 
-{% include section.html %}
-
 ## General research themes
-
-{% include section.html %}
 
 {% include list.html data="research_focus" component="card" filter="title == 'Marine Ecosystem Dynamics'" style="small" %}
 {% include list.html data="research_focus" component="card" filter="title == 'Observing System Design'" style="small" %}
