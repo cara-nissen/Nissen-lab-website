@@ -7,12 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-An overview of the lab's publications.
-
-{% include section.html %}
-
-## All
-
 {% include search-box.html %}
 
 {% include search-info.html %}
