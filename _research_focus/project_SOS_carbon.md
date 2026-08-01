@@ -1,5 +1,5 @@
 ---
-title: SOS Carbon
+title: SOS Carbon (2024-2027)
 description: Southern Ocean Storminess and the Carbon Cycle
 image: images/Fig_DOE_SOScarabon_proposal_floats_near_storm_homepage0.png
 group: funded
