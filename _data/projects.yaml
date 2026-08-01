@@ -1,4 +1,5 @@
 - title: Ecosystem and Biogeochemical Modeling
+  subtitle: xx
   group: general
   image: images/photo.jpg
   link: https://github.com/
@@ -9,6 +10,7 @@
     - Global
 
 - title: Observing System Design
+  subtitle: xx
   group: general
   image: images/photo.jpg
   link: https://github.com/
@@ -19,6 +21,7 @@
     - Global
 
 - title: Antarctic Marine Protected Areas (MPAs)
+  subtitle: xx
   group: general
   image: images/photo.jpg
   link: https://github.com/
