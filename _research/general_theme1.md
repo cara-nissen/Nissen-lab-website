@@ -1,6 +1,9 @@
 ---
-title: test project
-description: A very simple way to add structured data to a page.
+title: Marine Ecosystem Dynamics
+description: Modeling the interactions between marine ecosystems and biogeochemical cycles.
+group: general
+nav:
+  order: 1
 tags:
   - Southern Ocean
   - Arctic
