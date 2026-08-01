@@ -13,7 +13,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Do you want to join the team? [Check openings.](https://cara-nissen.github.io/Nissen-lab-website/openings/)
+# Do you want to join the team? [Check openings.](https://cara-nissen.github.io/Nissen-lab-website/openings/)
 
 {% include section.html %}
 
