@@ -17,7 +17,6 @@
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
-    - Arctic
     - Global
 
 - title: Marine Protected Areas
@@ -37,3 +36,21 @@
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
+
+- title: Ross Sea RCN
+  subtitle: An International Network of Science and Management to Improve Efficacy of Remote Large-Scale Marine Protected Areas
+  group: funded
+  image: images/photo.jpg
+  link: https://github.com/
+  repo: greenelab/lab-website-template
+  tags:
+    - Southern Ocean
+
+- title: PHYVIR
+  subtitle: Resolving marine phytoplankton-virus interactions from local to global scales
+  group: funded
+  image: images/photo.jpg
+  link: https://github.com/
+  repo: greenelab/lab-website-template
+  tags:
+    - Global
