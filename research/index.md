@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-An overview of the lab's general research directions and funded projects.
-
 {% include tags.html tags="Southern Ocean, Arctic, Global" %}
 
 {% include search-info.html %}
