@@ -4,6 +4,7 @@
   image: images/photo.jpg
   link: https://github.com/
   repo: greenelab/lab-website-template
+  description: xx
   tags:
     - Southern Ocean
     - Arctic
@@ -15,6 +16,7 @@
   image: images/photo.jpg
   link: https://github.com/
   repo: greenelab/lab-website-template
+  description: xx
   tags:
     - Southern Ocean
     - Arctic
@@ -26,6 +28,7 @@
   image: images/photo.jpg
   link: https://github.com/
   repo: greenelab/lab-website-template
+  description: xx
   tags:
     - Southern Ocean
 
@@ -35,6 +38,7 @@
   image: images/photo.jpg
   link: https://github.com/
   repo: greenelab/lab-website-template
+  description: xx
   tags:
     - Southern Ocean
 
@@ -44,6 +48,7 @@
   image: images/photo.jpg
   link: https://github.com/
   repo: greenelab/lab-website-template
+  description: xx
   tags:
     - Southern Ocean
 
@@ -53,6 +58,7 @@
   image: images/photo.jpg
   link: https://github.com/
   repo: greenelab/lab-website-template
+  description: xx
   tags:
     - Global
 
@@ -62,5 +68,6 @@
   image: images/photo.jpg
   link: https://github.com/
   repo: greenelab/lab-website-template
+  description: xx
   tags:
     - Arctic
