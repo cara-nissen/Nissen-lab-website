@@ -35,9 +35,9 @@ defaults:
       layout: post
   # markdown files in /_research
   - scope:
-      path: ""
+      type: "research_focus"
     values:
-      layout: default
+      layout: research
 
 collections:
   # generate page for each member
@@ -47,7 +47,7 @@ collections:
   posts:
     output: true
   # generate page for each theme or project in research section
-  research:
+  research_focus:
     output: true
 
 # jekyll plugins
