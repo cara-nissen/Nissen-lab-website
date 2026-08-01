@@ -1,46 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s41558-026-02561-9
-  title: Emergent climate change signals within Antarctic sea ice and associated ecosystems
-  authors:
-  - Kristen M. Krumhardt
-  - Laura Landrum
-  - "Bilgecan \u015Een"
-  - Alice K. DuVivier
-  - Michael N. Levy
-  - Cara Nissen
-  - Marika M. Holland
-  - "St\xE9phanie Jenouvrier"
-  publisher: Nature Climate Change
-  date: '2026-02-13'
-  link: https://doi.org/hcc6zw
-  orcid: 0000-0001-5804-3191
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-026-69011-0
-  title: An Antarctic ecosystem value index to quantify ecological value across trophic
-    levels and over time
-  authors:
-  - Alice K. DuVivier
-  - Kristen M. Krumhardt
-  - Laura L. Landrum
-  - Zephyr Sylvester
-  - "Bilgecan \u015Een"
-  - Sara Labrousse
-  - Christian Che-Castaldo
-  - Alice Eparvier
-  - Marika M. Holland
-  - Michelle A. LaRue
-  - Cara Nissen
-  - Michael N. Levy
-  - Stephanie Jenouvrier
-  - Cassandra Brooks
-  publisher: Nature Communications
-  date: '2026-02-11'
-  link: https://doi.org/hcc6zx
-  orcid: 0000-0001-5804-3191
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.67382/nczr5212
   title: Antarctica InSync Scientific Theme 1 - Southern Ocean physical and biogeochemical
     cycles in a changing climate
@@ -101,6 +60,47 @@
   orcid: 0000-0001-5804-3191
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41558-026-02561-9
+  title: Emergent climate change signals within Antarctic sea ice and associated ecosystems
+  authors:
+  - Kristen M. Krumhardt
+  - Laura Landrum
+  - "Bilgecan \u015Een"
+  - Alice K. DuVivier
+  - Michael N. Levy
+  - Cara Nissen
+  - Marika M. Holland
+  - "St\xE9phanie Jenouvrier"
+  publisher: Nature Climate Change
+  date: '2026-02-13'
+  link: https://doi.org/hcc6zw
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-026-69011-0
+  title: An Antarctic ecosystem value index to quantify ecological value across trophic
+    levels and over time
+  authors:
+  - Alice K. DuVivier
+  - Kristen M. Krumhardt
+  - Laura L. Landrum
+  - Zephyr Sylvester
+  - "Bilgecan \u015Een"
+  - Sara Labrousse
+  - Christian Che-Castaldo
+  - Alice Eparvier
+  - Marika M. Holland
+  - Michelle A. LaRue
+  - Cara Nissen
+  - Michael N. Levy
+  - Stephanie Jenouvrier
+  - Cassandra Brooks
+  publisher: Nature Communications
+  date: '2026-02-11'
+  link: https://doi.org/hcc6zx
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5194/os-21-1205-2025
   title: Simulated density reorganization on the Weddell Sea continental shelf sensitive
     to atmospheric forcing
