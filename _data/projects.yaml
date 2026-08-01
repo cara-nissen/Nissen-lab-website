@@ -1,9 +1,8 @@
 - title: Ecosystem and Biogeochemical Modeling
-  subtitle: a subtitle
   group: general
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
@@ -11,11 +10,10 @@
     - Global
 
 - title: Observing System Design
-  subtitle: a subtitle
   group: general
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
@@ -23,11 +21,10 @@
     - Global
 
 - title: Antarctic Marine Protected Areas (MPAs)
-  subtitle: a subtitle
   group: general
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
