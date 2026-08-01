@@ -41,6 +41,9 @@ collections:
   # generate page for each post
   posts:
     output: true
+  # generate page for each theme or project in research section
+  research:
+    output: true
 
 # jekyll plugins
 plugins:
