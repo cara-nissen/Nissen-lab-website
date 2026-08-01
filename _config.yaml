@@ -33,7 +33,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-  # markdown files in /_research
+  # markdown files in /_research_focus
   - scope:
       type: "research_focus"
     values:
