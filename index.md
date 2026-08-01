@@ -1,9 +1,9 @@
 ---
 ---
 
-# cara-nissen's Website
+# Nissen lab at the University of Amsterdam
 
-An engaging 1-3 sentence description of your lab.
+Some text.
 
 {% include section.html %}
 
