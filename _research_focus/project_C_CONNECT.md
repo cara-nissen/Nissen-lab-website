@@ -1,5 +1,5 @@
 ---
-title: C-CONNECT
+title: C-CONNECT (2026-2031)
 description: Plumbing the biological pump - linking missing carbon flows between pelagic and benthic ecosystems in a changing Arctic Ocean
 group: funded
 link: "https://cara-nissen.github.io/Nissen-lab-website/research_focus/project_C_CONNECT.html"
