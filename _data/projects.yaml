@@ -1,47 +1,73 @@
-- title: Cool Dataset
+- title: Ecosystem and Biogeochemical Modeling
   subtitle: a subtitle
-  group: featured
+  group: general
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - Southern Ocean
+    - Arctic
+    - Global
 
-- title: Cool Package
+- title: Observing System Design
   subtitle: a subtitle
-  group: featured
+  group: general
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - Southern Ocean
+    - Arctic
+    - Global
 
-- title: Cool Tutorial
+- title: Antarctic Marine Protected Areas (MPAs)
   subtitle: a subtitle
+  group: general
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - Southern Ocean
 
-- title: Cool Web App
+- title: SOS-Carbon
   subtitle: a subtitle
+  group: funded
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - Southern Ocean
 
-- title: Cool Web Server
+- title: Ross Sea MPA Research Coordination Network
   subtitle: a subtitle
+  group: funded
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - Southern Ocean
+
+- title: PHYVIR
+  subtitle: a subtitle
+  group: funded
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - Global
+
+- title: C-CONNECT
+  subtitle: a subtitle
+  group: funded
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - Arctic
