@@ -33,41 +33,41 @@
     - Southern Ocean
 
 - title: SOS-Carbon
-  subtitle: a subtitle
+  subtitle: Southern Ocean Storminess and the Carbon Cycle
   group: funded
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
 
-- title: Ross Sea MPA Research Coordination Network
-  subtitle: a subtitle
+- title: Ross Sea RCN
+  subtitle: An International Network of Science and Management to Improve Efficacy of Remote Large-Scale Marine Protected Areas
   group: funded
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
 
 - title: PHYVIR
-  subtitle: a subtitle
+  subtitle: Resolving marine phytoplankton – virus interactions from local to global scales
   group: funded
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - Global
 
 - title: C-CONNECT
-  subtitle: a subtitle
+  subtitle: Plumbing the biological pump: Linking missing carbon flows between pelagic and benthic ecosystems in a changing Arctic Ocean
   group: funded
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - Arctic
