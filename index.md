@@ -1,13 +1,7 @@
 ---
 ---
 
-# Nissen lab at the University of Amsterdam
-
-Some text.
-
-{% include section.html %}
-
-## Highlights
+# Welcome to the website of the Nissen lab at the University of Amsterdam
 
 {% capture text %}
 
