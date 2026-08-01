@@ -1,73 +1,24 @@
 - title: Ecosystem and Biogeochemical Modeling
-  subtitle: xx
-  group: general
+  subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  description: xx
   tags:
     - Southern Ocean
     - Arctic
     - Global
 
-- title: Observing System Design
+- title: Ecosystem and Biogeochemical Modeling
   subtitle: xx
   group: general
   image: images/photo.jpg
   link: https://github.com/
-  repo: greenelab/lab-website-template
   description: xx
+  repo: greenelab/lab-website-template
   tags:
     - Southern Ocean
     - Arctic
     - Global
 
-- title: Antarctic Marine Protected Areas (MPAs)
-  subtitle: xx
-  group: general
-  image: images/photo.jpg
-  link: https://github.com/
-  repo: greenelab/lab-website-template
-  description: xx
-  tags:
-    - Southern Ocean
-
-- title: SOS-Carbon
-  subtitle: Southern Ocean Storminess and the Carbon Cycle
-  group: funded
-  image: images/photo.jpg
-  link: https://github.com/
-  repo: greenelab/lab-website-template
-  description: xx
-  tags:
-    - Southern Ocean
-
-- title: Ross Sea RCN
-  subtitle: An International Network of Science and Management to Improve Efficacy of Remote Large-Scale Marine Protected Areas
-  group: funded
-  image: images/photo.jpg
-  link: https://github.com/
-  repo: greenelab/lab-website-template
-  description: xx
-  tags:
-    - Southern Ocean
-
-- title: PHYVIR
-  subtitle: Resolving marine phytoplankton – virus interactions from local to global scales
-  group: funded
-  image: images/photo.jpg
-  link: https://github.com/
-  repo: greenelab/lab-website-template
-  description: xx
-  tags:
-    - Global
-
-- title: C-CONNECT
-  subtitle: Plumbing the biological pump: Linking missing carbon flows between pelagic and benthic ecosystems in a changing Arctic Ocean
-  group: funded
-  image: images/photo.jpg
-  link: https://github.com/
-  repo: greenelab/lab-website-template
-  description: xx
-  tags:
-    - Arctic
