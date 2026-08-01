@@ -42,7 +42,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>C-CONNECT | cara-nissen</title>
+<title>C-CONNECT | Nissen Lab</title>
 
 <link rel="icon" href="/Nissen-lab-website/images/icon.png">
 
@@ -50,7 +50,7 @@
 <meta name="description" content="Plumbing the biological pump - linking missing carbon flows between pelagic and benthic ecosystems in a changing Arctic Ocean">
 
 <meta property="og:title" content="C-CONNECT">
-<meta property="og:site_title" content="cara-nissen">
+<meta property="og:site_title" content="Nissen Lab">
 <meta property="og:description" content="Plumbing the biological pump - linking missing carbon flows between pelagic and benthic ecosystems in a changing Arctic Ocean">
 <meta property="og:url" content="https://cara-nissen.github.io/Nissen-lab-website">
 <meta property="og:image" content="/Nissen-lab-website/images/share.jpg">
@@ -554,7 +554,7 @@
     
       <span class="title-text" data-tooltip="Home">
         
-          <span class="title">cara-nissen</span>
+          <span class="title">Nissen Lab</span>
         
         
       </span>
@@ -835,7 +835,7 @@ Some text.
 
   <div>
     &copy; 2026
-    cara-nissen
+    Nissen Lab
     &nbsp; | &nbsp; Built with
     <a href="https://github.com/greenelab/lab-website-template">
       Lab Website Template
