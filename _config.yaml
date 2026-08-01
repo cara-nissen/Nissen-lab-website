@@ -35,9 +35,9 @@ defaults:
       layout: post
   # markdown files in /_research
   - scope:
-      type: "research"
+      path: ""
     values:
-      layout: research
+      layout: default
 
 collections:
   # generate page for each member
