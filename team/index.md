@@ -26,8 +26,6 @@ Do you want to join the team? [Check openings.](https://cara-nissen.github.io/Ni
 
 ## Alumni
 
-{% include section.html %}
-
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
