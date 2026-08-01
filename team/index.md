@@ -19,7 +19,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Do you want to join the team? [Check openings.](research)
+Do you want to join the team? [Check openings.](https://cara-nissen.github.io/Nissen-lab-website/openings/)
 
 {% include section.html %}
 
