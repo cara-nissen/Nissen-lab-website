@@ -21,8 +21,8 @@ An overview of the lab's general research directions and funded projects.
 
 ## Funded projects
 
-{% include list.html data="research_focus" component="card" filter="title == 'SOS Carbon'" style="small" %}
-{% include list.html data="research_focus" component="card" filter="title == 'Ross Sea RCN'" style="small" %}
-{% include list.html data="research_focus" component="card" filter="title == 'PHYVIR'" style="small" %}
-{% include list.html data="research_focus" component="card" filter="title == 'C-CONNECT'" style="small" %}
+{% include list.html data="research_focus" component="card" filter="title == 'SOS Carbon (2024-2027)'" style="small" %}
+{% include list.html data="research_focus" component="card" filter="title == 'Ross Sea RCN (2025-2029)'" style="small" %}
+{% include list.html data="research_focus" component="card" filter="title == 'PHYVIR (2025-2030)'" style="small" %}
+{% include list.html data="research_focus" component="card" filter="title == 'C-CONNECT (2026-2031)'" style="small" %}
 
