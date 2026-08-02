@@ -18,12 +18,12 @@ Some text
 
 ## Short CV
 
-- Since 2025 	Assistant Professor, University of Amsterdam, Netherlands
-- 2023-2024 	Research Scientist, University of Colorado Boulder, USA
-- 2022-2024 	Visiting scientist, National Center for Atmospheric Research, USA
-- 2022-2023 	Postdoc, University of Colorado Boulder, USA
-- 2020-2022 	Postdoc, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Germany
-- 2019 		    Ph.D., ETH Zürich, Switzerland (environmental physics, biogeochemical modeling)
-- 2014 		    M.Sc., University of Bergen, Norway (marine ecosystems and climate, physical oceanography)
-- 2012 		    B.Sc., University of Kiel, Germany (physical oceanography, meteorology)
+- **Since 2025** &emsp; Assistant Professor, University of Amsterdam, Netherlands
+- **2023-2024** &emsp; Research Scientist, University of Colorado Boulder, USA
+- **2022-2024** &emsp; Visiting scientist, National Center for Atmospheric Research, USA
+- **2022-2023** &emsp; Postdoc, University of Colorado Boulder, USA
+- **2020-2022** &emsp; Postdoc, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Germany
+- **2019** &emsp;&emsp; Ph.D., ETH Zürich, Switzerland (environmental physics, biogeochemical modeling)
+- **2014** &emsp;&emsp; M.Sc., University of Bergen, Norway (marine ecosystems and climate, physical oceanography)
+- **2012** &emsp;&emsp; B.Sc., University of Kiel, Germany (physical oceanography, meteorology)
 
