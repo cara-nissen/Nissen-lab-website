@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the website of the Nissen lab at the University of Amsterdam
+# Welcome to the website of the Nissen lab <br> at the University of Amsterdam
 
 {% capture text %}
 
