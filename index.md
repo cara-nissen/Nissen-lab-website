@@ -52,7 +52,7 @@ Our groups consists of international researchers from varying backgrounds.
 
 {% capture text %}
 
-If you are interested in joining the group, openings will be posted on this homepage. 
+If you are interested in joining the group, openings will be posted here. 
 
 {%
   include button.html
