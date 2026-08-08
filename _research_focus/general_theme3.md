@@ -10,3 +10,8 @@ tags:
 
 Some text.
 
+## Relevant Publications
+
+{% include list.html data="citations" component="citation" filter="id == 'doi:10.3389/fmars.2026.1886905'" style="small" %} {% include list.html data="citations" component="citation" filter="id == 'doi:10.1111/conl.13053'" style="small" %} 
+
+
