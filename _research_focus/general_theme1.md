@@ -12,3 +12,5 @@ tags:
 
 Some text.
 
+{% include list.html data="citations" component="citation" style="rich" filter="id == 'doi:10.5194/bg-15-6997-2018'" %}
+
