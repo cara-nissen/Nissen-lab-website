@@ -20,7 +20,7 @@ Some text.
 Some text.
 
 
-## Relevant Publications
+## Selected Publications
 
 {% capture content %}
   {% include list.html data="citations" component="citation" filter="id == 'doi:10.22541/essoar.15006783/v1'" style="small" %}
