@@ -15,7 +15,7 @@ nav:
 
 {% include list.html data="research_focus" component="card" filter="title == 'Marine Ecosystem Dynamics'" style="small" %}
 {% include list.html data="research_focus" component="card" filter="title == 'Observing System Design'" style="small" %}
-{% include list.html data="research_focus" component="card" filter="title == 'Marine Protected Areas'" style="small" %}
+{% include list.html data="research_focus" component="card" filter="title == 'Southern Ocean Dynamics and Marine Protected Areas'" style="small" %}
 
 ## Funded projects
 
