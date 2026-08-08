@@ -1,5 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3389/fmars.2026.1886905
+  title: 'End-to-end modeling for the Ross Sea Region Marine Protected Area: a review
+    of available tools for conservation objectives'
+  authors:
+  - James R. Lovvorn
+  - Cara Nissen
+  - Alexis A. Bahl
+  - Erik Behrens
+  - Cassandra M. Brooks
+  - Katy Christensen
+  - Michael S. Dinniman
+  - Lilian A. Dove
+  - Alice K. DuVivier
+  - Eileen E. Hofmann
+  - Hayley Kwasniewski
+  - Young Shin Kwon
+  - Sharon E. Stammerjohn
+  - Lei Xing
+  publisher: Frontiers in Marine Science
+  date: '2026-08-03'
+  link: https://doi.org/hcd7db
+  orcid: 0000-0001-5804-3191
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/essoar.15006783/v1
+  title: 'Diagnosing the influence of Southern Ocean storms on air-sea carbon dioxide
+    flux from synthetic floats: A modeling study'
+  authors:
+  - Katy M. Christensen
+  - Nicole Suzanne Lovenduski
+  - LeAnn Marie Conlon
+  - Mathew E Maltrud
+  - Cara Nissen
+  publisher: Wiley
+  date: '2026-07-30'
+  link: https://doi.org/hcc65j
+  orcid: 0000-0001-5804-3191
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.67382/nczr5212
   title: Antarctica InSync Scientific Theme 1 - Southern Ocean physical and biogeochemical
     cycles in a changing climate
@@ -649,17 +688,3 @@
   orcid: 0000-0001-5804-3191
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.22541/essoar.15006783/v1
-  title: 'Diagnosing the influence of Southern Ocean storms on air-sea carbon dioxide
-    flux from synthetic floats: A modeling study'
-  authors:
-  - Katy M. Christensen
-  - Nicole Suzanne Lovenduski
-  - LeAnn Marie Conlon
-  - Mathew E Maltrud
-  - Cara Nissen
-  publisher: Wiley
-  date: '2026-07-30'
-  link: https://doi.org/hcc65j
-  plugin: sources.py
-  file: sources.yaml
