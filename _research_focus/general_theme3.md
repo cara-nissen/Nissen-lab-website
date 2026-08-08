@@ -1,5 +1,5 @@
 ---
-title: Marine Protected Areas
+title: Southern Ocean Dynamics and Marine Protected Areas
 description: Using ocean models to inform ecosystem management.
 image: images/Fig_homepage_MPAs.png
 group: general
