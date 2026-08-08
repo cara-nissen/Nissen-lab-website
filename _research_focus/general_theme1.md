@@ -18,6 +18,8 @@ Some text.
 
 Some text.
 
+Some text.
+
 ## Relevant Publications
 
 {% capture content %}
