@@ -12,7 +12,28 @@ tags:
 
 Some text.
 
+Some text. 
+
+Some text. 
+
+Some text.
+
 ## Relevant Publications
 
-{% include list.html data="citations" component="citation" filter="id == 'doi:10.1029/2024GB008403'" style="small" %} {% include list.html data="citations" component="citation" filter="id == 'doi:10.1111/gcb.16799'" style="small" %} {% include list.html data="citations" component="citation" filter="id == 'doi:10.1525/elementa.2021.00104'" style="small" %} {% include list.html data="citations" component="citation" filter="id == 'doi:10.1029/2021gb006991'" style="small" %} {% include list.html data="citations" component="citation" filter="id == 'doi:10.5194/bg-18-251-2021'" style="small" %} {% include list.html data="citations" component="citation" filter="id == 'doi:10.1029/2018ms001483'" style="small" %} {% include list.html data="citations" component="citation" filter="id == 'doi:10.5194/bg-15-6997-2018'" style="small" %}
+{% capture content %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1111/gcb.70063'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1029/2024GB008403'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1111/gcb.16799'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1525/elementa.2021.00104'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1029/2021gb006991'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.5194/bg-18-251-2021'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1029/2018ms001483'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.5194/bg-15-6997-2018'" style="small" %}
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  style="square"
+%}
 
