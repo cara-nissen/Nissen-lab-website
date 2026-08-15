@@ -11,7 +11,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/P1030376_copy.jpg" dark=true %}
 
 # Do you want to join the team? [Check openings.](https://cara-nissen.github.io/Nissen-lab-website/openings/)
 
@@ -27,6 +27,4 @@ nav:
 ## Alumni
 
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
 
