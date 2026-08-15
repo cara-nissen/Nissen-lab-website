@@ -13,6 +13,12 @@ Our understanding of the physical, chemical, and biological dynamics of the ocea
 
 Ocean models can support the design of improved observing networks. This is because in the model world, we have complete knowledge of ocean properties and fluxes at all locations and at all times. **Our group aims to enhance the utility of synthetic observing systems in ocean models to enhance the interpretation of observational records and support observing system design.** To achieve that, our group (co-)develops the implementation of and uses observing systems implemented directly into ocean models (e.g., floats, satellites). Extracting synthetic observations during model run time, this approach is unique in that it gives us the same snapshot view of the modeled ocean that real-world observations give us of the real ocean. Comparison with the true model fields then helps isolating the most critical sources of uncertainty in our current ocean observing systems.
 
+
+## Related Projects
+
+[SOS-Carbon]([https://some-website.org/](https://eesm.science.energy.gov/projects/sos-carbon-southern-ocean-storminess-and-carbon-cycle) (2024-2027): The project team aims to test the hypothesis that mid-latitude cyclones play an outsized role in the Southern Ocean carbon cycle and drive carbon-climate feedback. It is funded by the US Department of Energy under grant no. DE-SC0025505 and led by Nicole Lovenduski (University of Colorado Boulder, USA), with co-leads Cara Nissen (University of Amsterdam, NL) and Mathew Maltrud (Los Alamos National Laboratory, USA). 
+
+
 ## Selected Publications
 
 {% capture content %}
