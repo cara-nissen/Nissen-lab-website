@@ -27,7 +27,7 @@ I actively participate in several international committees to connect with the w
 - [Antarctica InSync's "Carbon cycling" working group](https://www.antarctica-insync.org/working-group/carbon-cycling/)
 - [Antarctica InSync's "Seasonal cycle of Micronutrients and Microbial interactions in the Southern Ocean" working group](https://www.antarctica-insync.org/working-group/mms-seasonal-cycle-of-micronutrients-and-microbial-interactions-in-the-southern-ocean/)
 - [SCAR’s Antarctica InSync Action Group](https://scar.org/science/excom/insync)
-- [Ross Sea Marine Protected Area Research Coordination Network](https://www.rosssearesearch.org).
+- [Ross Sea Marine Protected Area Research Coordination Network](https://www.rosssearesearch.org)
 
 
 ## Short CV
