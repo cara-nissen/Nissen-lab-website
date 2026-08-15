@@ -16,13 +16,16 @@ Connected to all major ocean basins through circulation, the Southern Ocean play
 [Ross Sea Research Coordination Network](https://www.rosssearesearch.org) (2025-2029): To fulfill their conservation potential and provide safeguards for biodiversity, marine protected areas (MPAs) need coordinated research and monitoring for informed management through effective evaluation of ecosystem dynamics. However, coordination is challenging, often due to knowledge gaps caused by inadequate access to data and resources, compounded by insufficient communication between scientists and managers. This project uses the world’s largest MPA in the Ross Sea, Antarctica as a model system to create an international interdisciplinary network supporting research and monitoring that could be implemented in other remote, large-scale international MPAs. It is funded by the US National Science Foundation (NSF) and led by Cassandra Brooks and Sharon Stammerjohn (University of Colorado Boulder, USA). Cara Nissen (University of Amsterdam, NL) is steering committee member and co-lead for the bio-physical modeling component of the RCN.
 
 
-## Selected Publications: Southern Ocean Dynamics
+## Selected Publications
 
 {% capture content %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.3389/fmars.2026.1886905'" style="small" %}
   {% include list.html data="citations" component="citation" filter="id == 'doi:10.67382/nczr5212'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1038/s41467-026-69011-0'" style="small" %}
   {% include list.html data="citations" component="citation" filter="id == 'doi:10.1038/s41558-026-02561-9'" style="small" %}
   {% include list.html data="citations" component="citation" filter="id == 'doi:10.5194/os-20-85-2024'" style="small" %}
   {% include list.html data="citations" component="citation" filter="id == 'doi:10.1038/s41467-023-44438-x'" style="small" %}
+  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1111/conl.13053'" style="small" %} 
   {% include list.html data="citations" component="citation" filter="id == 'doi:10.1175/jcli-d-22-0926.1'" style="small" %}
   {% include list.html data="citations" component="citation" filter="id == 'doi:10.1038/s41467-022-30671-3'" style="small" %}
 {% endcapture %}
@@ -32,21 +35,5 @@ Connected to all major ocean basins through circulation, the Southern Ocean play
   content=content
   style="square"
 %}
-
-## Selected Publications: Marine Protected Areas
-
-{% capture content %}
-  {% include list.html data="citations" component="citation" filter="id == 'doi:10.3389/fmars.2026.1886905'" style="small" %}
-  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1038/s41467-026-69011-0'" style="small" %}
-  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1038/s41467-023-44438-x'" style="small" %}
-  {% include list.html data="citations" component="citation" filter="id == 'doi:10.1111/conl.13053'" style="small" %} 
-{% endcapture %}
-
-{%
-  include grid.html
-  content=content
-  style="square"
-%}
-
 
 
