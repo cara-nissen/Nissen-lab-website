@@ -1,6 +1,6 @@
 ---
 name: Cara Nissen
-image: images/photo.jpg
+image: images/Photo_Cara_Nissen_cut.jpeg
 role: principal-investigator
 affiliation: University of Amsterdam
 aliases:
