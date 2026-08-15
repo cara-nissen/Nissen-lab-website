@@ -8,15 +8,7 @@ tags:
   - Southern Ocean
 ---
 
-Some text.
-
-Some text. 
-
-Some text. 
-
-Some text.
-
-Some text.
+Connected to all major ocean basins through circulation, the Southern Ocean plays an outsized role in global biogeochemical cycles and climate and hosts unique biodiversity. Despite the region’s global importance and ongoing attempts to establish a network of marine protected areas to protect polar ecosystems, we have an incomplete understanding of how the coupled physical-chemical-biological system of the Southern Ocean functions. This adds uncertainty to projections of how this region may respond to direct or indirect human influences (climate change, pollution, fishing, tourism). Our group aims to enhance our understanding of how the Southern Ocean responds to cumulative human pressures, with a particular focus on ecosystem functioning and biogeochemical cycles. To achieve that, our group (co-)develops and uses ocean models specifically designed for Southern Ocean applications, i.e., model setups that are uniquely representing polar physical and/or biological processes. 
 
 ## Selected Publications: Southern Ocean Dynamics
 
