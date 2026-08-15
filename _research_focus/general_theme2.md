@@ -16,7 +16,7 @@ Ocean models can support the design of improved observing networks. This is beca
 
 ## Related Projects
 
-[SOS-Carbon]([https://some-website.org/](https://eesm.science.energy.gov/projects/sos-carbon-southern-ocean-storminess-and-carbon-cycle) (2024-2027): The project team aims to test the hypothesis that mid-latitude cyclones play an outsized role in the Southern Ocean carbon cycle and drive carbon-climate feedback. It is funded by the US Department of Energy under grant no. DE-SC0025505 and led by Nicole Lovenduski (University of Colorado Boulder, USA), with co-leads Cara Nissen (University of Amsterdam, NL) and Mathew Maltrud (Los Alamos National Laboratory, USA). 
+[SOS-Carbon](https://eesm.science.energy.gov/projects/sos-carbon-southern-ocean-storminess-and-carbon-cycle) (2024-2027): The project team aims to test the hypothesis that mid-latitude cyclones play an outsized role in the Southern Ocean carbon cycle and drive carbon-climate feedback. It is funded by the US Department of Energy under grant no. DE-SC0025505 and led by Nicole Lovenduski (University of Colorado Boulder, USA), with co-leads Cara Nissen (University of Amsterdam, NL) and Mathew Maltrud (Los Alamos National Laboratory, USA). 
 
 
 ## Selected Publications
