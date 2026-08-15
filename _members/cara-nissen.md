@@ -18,7 +18,7 @@ A physical oceanographer by training, I have always been fascinated by working a
 
 Add a little more text. 
 
-I actively participate in several international committees to connect with the wider climate and ecosystem management research communities, contribute to shaping research directions, and translate science into policy. I am currently a member of 
+I actively participate in several international committees to connect with the wider climate and ecosystem management research communities, to contribute to shaping research directions, and to translate science into policy. I am currently a member of 
 - [CLIVAR/CliC/SCAR’s Southern Ocean regional panel](https://www.clivar.org/clivar-panels/southern)
 - [Antarctica InSync's "Carbon cycling" working group](https://www.antarctica-insync.org/working-group/carbon-cycling/)
 - [Antarctica InSync's "Seasonal cycle of Micronutrients and Microbial interactions in the Southern Ocean" working group](https://www.antarctica-insync.org/working-group/mms-seasonal-cycle-of-micronutrients-and-microbial-interactions-in-the-southern-ocean/)
