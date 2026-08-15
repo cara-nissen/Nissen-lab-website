@@ -14,7 +14,10 @@ links:
   linkedin: cara-nissen-1b026962
 ---
 
-Some text
+A physical oceanographer by training, I have always been fascinated by working at the interface between physical, chemical and biological processes in the ocean. Over the years, I have developed or used many model systems (ROMS-BEC, FESOM-REcoM, E3SM, CESM). 
+
+I actively participate in several international committees to connect with the wider climate and ecosystem management research communities, contribute to shaping research directions, and translate science into policy. I am currently a member of [CLIVAR/CliC/SCAR’s Southern Ocean regional panel](https://www.clivar.org/clivar-panels/southern), the ["Carbon cycling" working group of Antarctica InSync](https://www.antarctica-insync.org/working-group/carbon-cycling/), the ["Seasonal cycle of Micronutrients and Microbial interactions in the Southern Ocean" working group of Antarctica InSync](https://www.antarctica-insync.org/working-group/mms-seasonal-cycle-of-micronutrients-and-microbial-interactions-in-the-southern-ocean/), [SCAR’s Antarctica InSync Action Group](https://scar.org/science/excom/insync), and the [Ross Sea Marine Protected Area Research Coordination Network](https://www.rosssearesearch.org).
+
 
 ## Short CV
 
